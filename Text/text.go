@@ -1,4 +1,4 @@
-package PrintText
+package Text
 
 import (
 	"fmt"
