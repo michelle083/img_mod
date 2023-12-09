@@ -9,7 +9,7 @@ import (
 	"os"
 )
 
-func Grayscale() {
+func GrayScale() {
 	// Prompt user to enter image URL
 	fmt.Println("Enter exact name of the image to grayscale: ")
 
