@@ -7,7 +7,7 @@ import (
     "io"
 )
 
-func GetPic() {
+func DownloadPic() {
     // URL of the image you want to download
     
     fmt.Println("Enter the image URL of image: ")
