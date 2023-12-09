@@ -1,4 +1,4 @@
-package Text
+package PrintText
 
 import (
 	"fmt"
@@ -10,7 +10,7 @@ import (
 	"golang.org/x/image/font/gofont/goregular"
 )
 
-func Text() {
+func PrintText() {
 	const W = 500
 	const H = 300
 
