@@ -69,4 +69,3 @@ func Grayscale() {
 
 	fmt.Println("Saving grayscaled image to 'colors_gray_scale.jpg'" + "... done.")
 }
-}
